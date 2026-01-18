@@ -1,1 +1,1 @@
-rabbitmq:management
+sickcodes/docker-osx:latest
