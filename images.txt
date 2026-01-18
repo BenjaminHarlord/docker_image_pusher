@@ -1,1 +1,1 @@
-sickcodes/docker-osx:tahoe
+sickcodes/docker-osx:latest
